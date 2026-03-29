@@ -1,6 +1,6 @@
 # AfriTech Electronics — Customer Trust and Revenue Risk Analysis
 
-**Tools:** Power BI · PostgreSQL · Python · Excel  
+**Tools:** Power BI · PostgreSQL  · Excel  
 **Dataset:** 73,586 customer interactions · 27 columns · 2021–2023  
 **Author:** Samuel Ahinakwa — Finance & Analytics Professional
 
